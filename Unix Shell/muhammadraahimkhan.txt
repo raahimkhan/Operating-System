@@ -1,0 +1,4 @@
+total 32
+-rwxrwxr-x 1 raahimkhan raahimkhan 17936 اکتوبر 18 23:12 a.out
+---------- 1 raahimkhan raahimkhan     0 اکتوبر 18 23:16 muhammadraahimkhan.txt
+-rw-rw-r-- 1 raahimkhan raahimkhan 11155 اکتوبر 18 23:08 simple-shell.c
